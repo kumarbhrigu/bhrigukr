@@ -9,8 +9,6 @@ website:
         text: Bhrigu Kumar Rajbongshi
       - href: index.qmd
         text: Home
-      - href: miipw.qmd
-        text: miipw
       - href: Resume.qmd
         text: myresume
       - href: portfolio.qmd
